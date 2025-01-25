@@ -6,7 +6,7 @@ breadcrumb:
   home: ":icon-home:"
   separator: "|"
 branding:
-  title: "Virtual Flags"
+  title: "Slattist Flags"
   label: master
   logo: assets/pbc.gif
 links:
