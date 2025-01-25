@@ -10,7 +10,7 @@ icon: rel-file-path
   <img src="assets/bool.gif" width="256" alt="YVL">
 </h3>
 
-<h1 align="center">Virtual Flags Archive</h1>
+<h1 align="center">Slattist Flags Archive</h1>
 
 <div align="center">
 
